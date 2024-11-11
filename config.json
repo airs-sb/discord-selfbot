@@ -1,0 +1,13 @@
+{
+    "prefix": ",",
+
+    "api_key": "t-662bd6a3b6c859001c3e5564-723b6f686e1f48b99a77e966",
+    "user_token": "",
+    "API_TOKEN": "",
+    "upi_id": "",
+    "unplash_api": "F1kSmh4MALfMKjHRxk38dZmPEV0OxsHdzuruBS_Y7to",
+    "webhook": "",
+    "clear_enabled": false,
+    "clear_interval": 15,
+    "sleep_interval": 3
+}
